@@ -1,0 +1,65 @@
+/*This imports fonts from Google Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
+
+body {
+
+  font-family: 'scene', monospace;
+  background-color:#ededed;
+  margin:0px;
+}
+
+header {
+  background-color: #ffffff;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom: 50px;
+  padding-top:10px;
+}
+
+.nav {
+  margin:0;
+  padding:10px;
+  background-color:#000000;
+}
+
+.nav a{
+  color:#ffffff;
+}
+
+.nav li {
+  font-family: 'Amatic SC', cursive;
+  display:inline;
+  padding:10px;
+  margin:0;
+}
+
+section.main {
+  width: 90%;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: #333333;
+  padding: 20px 10px;
+  color: #ffffff;
+  text-align: center;
+  margin-top:50px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;}
+
+a {
+  color: #14e4be;
+}
+
+img{
+  max-width:100%;
+}
+
+section.image {
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+}
